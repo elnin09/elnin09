@@ -7,4 +7,5 @@ I have a Masters degree in Computer Science from University of Illinois Urbana-C
 <br>
 <br>
 
-## Expertise
+## Skills & Projects
+
