@@ -6,7 +6,7 @@ I have a Masters degree in Computer Science from University of Illinois Urbana-C
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swapnil-darmora-18a91656/)
 <br>
 <br>
-(https://leetcode.com/swapnildarmora/)
+Leetcode: https://leetcode.com/swapnildarmora/
 <br>
 <br>
 
