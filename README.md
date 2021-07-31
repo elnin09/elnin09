@@ -4,8 +4,7 @@ I have a Masters degree in Computer Science from University of Illinois Urbana-C
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swapnil-darmora-18a91656/)
-[<img align="left" alt="leet-code" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />]
-(https://leetcode.com/swapnildarmora/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swapnil-darmora-18a91656/)
 <br>
 <br>
 
