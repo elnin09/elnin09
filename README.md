@@ -12,7 +12,7 @@ Leetcode: https://leetcode.com/swapnildarmora/ https://github.com/elnin09/algori
 
 ## Skills & Projects
 
-C++ Projects:
+C++ Projects Parallel Programming & Distributed Systems :
 * Histogram Sorting in a distributed environment. https://github.com/elnin09/parallelsorting
 * Gossip Based Membership Protocol https://github.com/elnin09/GossipBasedMemberShipProtocol
 
