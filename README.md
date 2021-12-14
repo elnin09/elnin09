@@ -1,5 +1,6 @@
 ### Hello World 👋
-I am a Software developer from India and currently working at Adobe as SDE-2.
+Tech Lead at Arcesium.
+EX SDE-2 at Adobe Systems.
 I have a Masters degree in Computer Science from University of Illinois Urbana-Champaign (UIUC)
 <br>
 ## Connect with me
